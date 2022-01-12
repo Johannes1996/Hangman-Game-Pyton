@@ -3,3 +3,5 @@
 Attached you will find a short fun and quite hard Hangman version on Python.
 
 It is using the NLTK words library, which contains all english words (around 230k). 
+
+Please note that the code differs between lower and capital letters.
